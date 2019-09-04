@@ -1,0 +1,28 @@
+#hed1{
+    text-align: center;
+}
+
+#sec1{
+    color: aquamarine;
+    text-align: left;
+    float: left;
+}
+
+#right{
+    float: left;
+    margin: 50px;
+    border: ridge;
+}
+#sec2{
+    font-style: italic;
+    font-family: sans-serif;
+    color: aquamarine;
+}
+#foot{
+margin: 235px;
+    padding: 70px;
+}
+
+body{
+    background: gray;
+}
